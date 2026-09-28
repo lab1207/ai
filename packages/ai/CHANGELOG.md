@@ -1,5 +1,11 @@
 # ai
 
+## 5.0.268
+
+### Patch Changes
+
+- dfffb7e: fix(ai): cancel response streams when clients disconnect
+
 ## 5.0.267
 
 ### Patch Changes
